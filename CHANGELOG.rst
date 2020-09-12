@@ -2,8 +2,12 @@ Changelog
 =========
 
 
-3.4.0
+3.6.0
 -----
+- Bump kubernetes python client depedency to 12.0.0a1. [Floris Van den
+  Abeele]
+- Bump argo version to v2.10.0. [Floris Van den Abeele]
+- :tada: Release 3.4. [Floris Van den Abeele]
 - Changes for latest argo version (2.8.1) [Floris Van den Abeele]
 
 

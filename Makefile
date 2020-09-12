@@ -84,7 +84,7 @@ patch: all
 
 .PHONY: release
 release: SHELL:=/bin/bash
-release: all
+release:
 	- rm -rf build/ dist/
 	- git tag --delete "v${CLIENT_VERSION}"
 

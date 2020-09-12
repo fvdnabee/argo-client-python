@@ -11,11 +11,11 @@ __all__ = [
     "__copyright__",
 ]
 
-__title__ = "argo-workflows"
+__title__ = "argo-workflows-fvdnabee"
 __summary__ = "Client for Argo Workflows"
 __uri__ = "https://github.com/CermakM/argo-client-python"
 
-__version__ = "3.4.0"
+__version__ = "3.6.0"
 
 __author__ = "Marek Cermak"
 __email__ = "macermak@redhat.com"
