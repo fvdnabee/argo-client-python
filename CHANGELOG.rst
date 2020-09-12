@@ -2,8 +2,16 @@ Changelog
 =========
 
 
-3.6.0
+3.6.1
 -----
+- Add docs and python modules that I forgot in release 3.6. [Floris Van
+  den Abeele]
+- :tada: Release 3.6. [Floris Van den Abeele]
+
+
+v3.6.0 (2020-09-12)
+-------------------
+- :tada: Release 3.6. [Floris Van den Abeele]
 - Bump kubernetes python client depedency to 12.0.0a1. [Floris Van den
   Abeele]
 - Bump argo version to v2.10.0. [Floris Van den Abeele]
